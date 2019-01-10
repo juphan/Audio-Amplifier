@@ -7,6 +7,6 @@ The circuit will also be connected to a wall outlet and be powered by dampening 
 
 The circuit design was taken from a schematic. This schematic was re-created on Eagle and board layout was performed on a 3x3 inch board. This project mainly involved setting up a circuit, basic board layout, ordering components, and soldering through hole components.
 
-*Note - There is a small design issue. A female pin connector was not included for the ground pin of the potentiometer. However, this issue can be solved by manually connecting the ground pin of the potentiometer with another ground in the circuit.
+*Note - There is a small design issue. A female pin connector was not included on the circuit for the ground pin of the potentiometer. However, this issue can be solved by manually connecting the ground pin of the potentiometer with another ground in the circuit.
 
 This repository contains the schematic that I re-created in Eagle, the board layout, the generated Gerber files from board layout, and the components list. There is also a picture of the final product.
